@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-21T09:41:00.953Z</updated>
+  <updated>2020-04-22T06:12:07.417Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新测试</title>
+    <link href="http://yoursite.com/2020/04/22/%E6%96%B0%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2020/04/22/%E6%96%B0%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-04-22T06:07:17.000Z</published>
+    <updated>2020-04-22T06:12:07.417Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><ul><li>你见过这样的阵势？<ul><li>反正我是没见过<h1 id="这批人要糟了"><a href="#这批人要糟了" class="headerlink" title="这批人要糟了"></a>这批人要糟了</h1></li></ul></li><li><em>听说</em>这批人要糟糕了</li><li>啊？！<strong>这批人要糟糕了？</strong></li><li>你<del>信吧</del>不信吧？</li><li>是的，我不信。<del>不，我信</del><h1 id="测试可以为所欲为"><a href="#测试可以为所欲为" class="headerlink" title="测试可以为所欲为"></a>测试可以为所欲为</h1><code>hello world</code><br><code>printf（“hello world”）</code></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;你见过这样的阵势？&lt;ul&gt;
+&lt;li&gt;反正我是没见过&lt;h1 id=&quot;这批人要糟了&quot;&gt;&lt;a href=&quot;#这批人要糟了&quot; class
+      
+    
+    </summary>
+    
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>我的测试</title>
